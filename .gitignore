@@ -1,0 +1,33 @@
+# Archivos de compilación
+*.class
+
+# Logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Eclipse
+*.prefs
+*.classpath
+*.project
+.settings/
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+out/
+
+# NetBeans
+nbproject/private/
+build/
+
+# VSCode
+.vscode/
+
+# Maven
+target/
+
+# Archivos de entorno
+.env
