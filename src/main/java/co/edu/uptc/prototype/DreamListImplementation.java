@@ -21,4 +21,12 @@ public class DreamListImplementation implements IProtoType<DreamListImplementati
         }
         return copy;
     }
+    public ArrayList<Dream> getDreams() {
+        return dreams;
+    }
+    public void setDreams(ArrayList<Dream> dreams) {
+        this.dreams = dreams;
+    }
+
+    
 }
